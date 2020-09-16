@@ -9,7 +9,7 @@ namespace C__Intro
             string input;
             int rumsnummer = 0;
 
-            System.Console.WriteLine("Välkommen till museet, du är nu i Entrén \n ");
+            System.Console.WriteLine("Välkommen till museet, du är nu i Entrén. \n ");
 
             while (rumsnummer == 0)
             {
