@@ -1,0 +1,13 @@
+C:\Users\Nils\Documents\Programmering\C# Intro\bin\Debug\netcoreapp3.1\C# Intro.exe
+C:\Users\Nils\Documents\Programmering\C# Intro\bin\Debug\netcoreapp3.1\C# Intro.deps.json
+C:\Users\Nils\Documents\Programmering\C# Intro\bin\Debug\netcoreapp3.1\C# Intro.runtimeconfig.json
+C:\Users\Nils\Documents\Programmering\C# Intro\bin\Debug\netcoreapp3.1\C# Intro.runtimeconfig.dev.json
+C:\Users\Nils\Documents\Programmering\C# Intro\bin\Debug\netcoreapp3.1\C# Intro.dll
+C:\Users\Nils\Documents\Programmering\C# Intro\bin\Debug\netcoreapp3.1\C# Intro.pdb
+C:\Users\Nils\Documents\Programmering\C# Intro\obj\Debug\netcoreapp3.1\C# Intro.csprojAssemblyReference.cache
+C:\Users\Nils\Documents\Programmering\C# Intro\obj\Debug\netcoreapp3.1\C# Intro.AssemblyInfoInputs.cache
+C:\Users\Nils\Documents\Programmering\C# Intro\obj\Debug\netcoreapp3.1\C# Intro.AssemblyInfo.cs
+C:\Users\Nils\Documents\Programmering\C# Intro\obj\Debug\netcoreapp3.1\C# Intro.csproj.CoreCompileInputs.cache
+C:\Users\Nils\Documents\Programmering\C# Intro\obj\Debug\netcoreapp3.1\C# Intro.dll
+C:\Users\Nils\Documents\Programmering\C# Intro\obj\Debug\netcoreapp3.1\C# Intro.pdb
+C:\Users\Nils\Documents\Programmering\C# Intro\obj\Debug\netcoreapp3.1\C# Intro.genruntimeconfig.cache
